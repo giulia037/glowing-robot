@@ -1,0 +1,25 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "uuid": "^9.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giulia037/Note-taker.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/giulia037/Note-taker/issues"
+  },
+  "homepage": "https://github.com/giulia037/Note-taker/blob/main/README.md",
+  "description": ""
+}
